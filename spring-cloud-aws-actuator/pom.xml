@@ -30,7 +30,7 @@
 	<description>Spring Cloud AWS Actuator</description>
 
 	<properties>
-		<micrometer.version>1.0.4</micrometer.version>
+		<micrometer.version>1.12.10</micrometer.version>
 	</properties>
 
 	<dependencies>
